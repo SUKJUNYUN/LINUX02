@@ -1,5 +1,5 @@
 # Hi there, I'm SUK JUN YUN 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=리눅스 좆같다&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=리눅스좆같다&fontSize=30)
 
 ## About Me
 - 🔭 I’m currently working on ...
