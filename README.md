@@ -14,4 +14,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUKJUNYUN)](https://github.com/anuraghazra/github-readme-stats)
