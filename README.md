@@ -4,6 +4,6 @@
  
  
  <h2>내가 좋아하는 것</h2>
- #00599C 
- 프로그래밍
+
+ file:///C:/Users/%EC%9C%A4%EC%84%9D%EC%A4%80/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/cplusplus.svg 프로그래밍
  
