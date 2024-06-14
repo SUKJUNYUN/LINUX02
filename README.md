@@ -9,6 +9,6 @@
 - ⚡ Fun fact: ...
 
 ## Technologies I Use
-<a href="[https://www.instagram.com/yourusername/](https://www.instagram.com/strone.kr/)" target="_blank">
+<a href="[https://www.instagram.com/strone.kr/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
 </a>
