@@ -9,4 +9,6 @@
 - ⚡ Fun fact: ...
 
 ## Technologies I Use
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
+</a>
