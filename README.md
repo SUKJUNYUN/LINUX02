@@ -11,7 +11,7 @@
 </a>
 - 📫 How to reach me: ...
 
-  Deajeon Daedeok-gu
+  <a href="mailto:sukjun9235@gmail.com"><img src="https://img.shields.io/badge/뱃지이름-blue?style=flat-square&logo=로고이미지이름&logoColor=white&link=mailto:자신의이메일"/></a>
 - ⚡ Fun fact: ...
 
 ## Technologies I Use
